@@ -1,0 +1,23 @@
+{
+  "name": "photo-sphere-viewer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xielhjia/photo-sphere-viewer.git"
+  },
+  "author": "xielh <sjzxlh@163.com> (https://github.com/xielhjia)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xielhjia/photo-sphere-viewer/issues"
+  },
+  "homepage": "https://github.com/xielhjia/photo-sphere-viewer#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
